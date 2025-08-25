@@ -1,6 +1,6 @@
 # Track Maker
 
-This is an old project that replicates the NSIDC Lagrangian ice age model by integrating ice motion vectors from PMW missions. The tool was not taken further.
+This is an old project that replicates the NSIDC Lagrangian ice age model by integrating ice motion vectors from PMW missions. The tool was not taken further and some preliminary results can be seen [here](https://www.youtube.com/watch?v=bmV89JLi8Ro).
 
 Step one is to run the track_maker.py script
 
